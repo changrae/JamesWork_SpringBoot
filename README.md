@@ -1,14 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
 
-
-## JAMESWORK 'Spring Boot'
-# 스프링부트를 이용한 테스트프로젝트
-<p><a href="https://www.youtube.com/channel/UCO7p2fGIfwVbvk_d6sdfnDw"><strong>유튜브(YouTube)</strong></a>에서 스프링 부트 강의를 진행하면서 사용한 예제 코드를 공유하고 있습니다.</p>
-<p>핵심 코드만 공유하는 것이 아니라 '실행 가능한' 형태로 공유하고 있어 그대로 사용하실 수 있습니다.</p>
-<p>도움이 되셨으면 좋겠습니다 :)</p>
-
-<br>
-
 ### Contents
 
 <p>스프링 부트 강의 영상에 맞춰 매번 코드가 변경될 수 있습니다.</p>
