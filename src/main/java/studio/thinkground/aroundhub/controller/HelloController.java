@@ -32,6 +32,21 @@ public class HelloController {
         LOGGER.error("Error Log");
 
     }
+    //시간에 따른 가격변동 적용을 위한 모듈
+class Matics extends ProductController {
+    PostController p = new ProductController();
+    public void matics(){
+        int h =0;
+        int m =0;
+        int s =0;
+        for(m,m<100,m++){
+        p.productPrice(50,000+m);
+        }
+
+        
+    }
+
+}
 
     @PostMapping("/exception")
     public void exceptionTest() throws Exception {
